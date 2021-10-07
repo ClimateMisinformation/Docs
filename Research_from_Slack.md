@@ -44,3 +44,8 @@
 ### Semantic_similarity_with_GristQuestions.ipynb (ankush checkervarty) 
 - mock ups tests products prototypes
 - [dataset](https://colab.research.google.com/drive/13p2QhiyeWsqYdy4agDvV6zTcLIKyIvHh?usp=sharing#scrollTo=4sfWsFTcQeqb)
+
+### Scraping tool
+Skim API uses machine learning and natural language processing to instantly search, extract and identify key information from unstructured web pages.
+[Getting started] (https://docs.skim.it/)
+- tools
