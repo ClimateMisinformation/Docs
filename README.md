@@ -9,7 +9,7 @@
 
 [To do list ](https://www.notion.so/To-do-list-a966c969725e400798c2bf0d465042d9)
 
-[Research from Slack](https://www.notion.so/f53282eb015949c6a8fb4a96a8a7e005)
+[Research from Slack](Research_from_Slack.md)
 
 [Market research ](MarketResearch.md)
 
