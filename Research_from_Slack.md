@@ -6,16 +6,16 @@
 
 
 ### AIUK: The Climate Emergency (The Alan Turing Institute) 
-[AIUK: The Climate Emergency] (https://www.youtube.com/watch?v=rqylDm1msxw)
+As the UK takes COP26 Presidency in 2021, the AI and data science sector is ramping up its research across environmental sciences and the use of technology to forecast and mitigate against climate change. Howard Covington, Chair of the Board of Trustees at The Alan Turing Institute opens this important theme.
+[AIUK: The Climate Emergency video](https://www.youtube.com/watch?v=rqylDm1msxw)
 
 
-### "Understanding and countering misinformation about climate change (John Cook)" 
-- John Cook 
-- George Mason University, USA 
+### "Understanding and countering misinformation about climate change John Cook, George Mason University, USA" 
+
 #### ABSTRACT
 `While there is overwhelming scientific agreement on climate change, the public have become polarized over fundamental questions such as human-caused global warming. Communication strategies to reduce polarization rarely address the underlying cause: ideologically-driven misinformation disseminated through outlets such as social and mainstream media. In order to effectively counter online misinformation, we require foundational frameworks that provide comprehensive understanding of the techniques employed in climate misinformation, as well as inform evidence-based approaches to neutralizing misinforming content. This chapter reviews analyses of climate misinformation, outlining a range of denialist arguments and fallacies. Identifying and deconstructing these different types of arguments is necessary to design appropriate interventions that effectively neutralize the misinformation. 
 This chapter also reviews research into how to counter misinformation using communication interventions such as inoculation, educational approaches such as misconception-based learning, and the interdisciplinary combination of technology and psychology known as technocognition.`
-[article](https://www.climatechangecommunication.org/wp-content/uploads/2019/06/Cook_2019_climate_misinformation-1.pdf)
+[full article](https://www.climatechangecommunication.org/wp-content/uploads/2019/06/Cook_2019_climate_misinformation-1.pdf)`
 
 
 ### Why people still believe climate change is fake… and why we know they're wrong (University of Hull)
