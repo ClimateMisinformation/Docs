@@ -7,12 +7,13 @@
 
 ### AIUK: The Climate Emergency (The Alan Turing Institute) 
 As the UK takes COP26 Presidency in 2021, the AI and data science sector is ramping up its research across environmental sciences and the use of technology to forecast and mitigate against climate change. Howard Covington, Chair of the Board of Trustees at The Alan Turing Institute opens this important theme.
-[AIUK: The Climate Emergency video](https://www.youtube.com/watch?v=rqylDm1msxw)
+
+[The Climate Emergency video](https://www.youtube.com/watch?v=rqylDm1msxw)
 
 
 ### Understanding and countering misinformation about climate change by John Cook, George Mason University, USA 
-#### ABSTRACT
-`While there is overwhelming scientific agreement on climate change, the public have become polarized over fundamental questions such as human-caused global warming. Communication strategies to reduce polarization rarely address the underlying cause: ideologically-driven misinformation disseminated through outlets such as social and mainstream media. In order to effectively counter online misinformation, we require foundational frameworks that provide comprehensive understanding of the techniques employed in climate misinformation, as well as inform evidence-based approaches to neutralizing misinforming content. This chapter reviews analyses of climate misinformation, outlining a range of denialist arguments and fallacies. Identifying and deconstructing these different types of arguments is necessary to design appropriate interventions that effectively neutralize the misinformation. 
+#### Abstract
+`While there is overwhelming scientific agreement on climate change, the public have become polarized over fundamental questions such as human-caused global warming. Communication strategies to reduce polarization rarely address the underlying cause: ideologically-driven misinformation disseminated through outlets such as social and mainstream media. In order to effectively counter online misinformation, we require foundational frameworks that provide comprehensive understanding of the techniques employed in climate misinformation, as well as inform evidence-based approaches to neutralizing misinforming content. This chapter reviews analyses of climate misinformation, outlining a range of denialist arguments and fallacies. Identifying and deconstructing these different types of arguments is necessary to design appropriate interventions that effectively neutralize the misinformation.`
 
 [full article](https://www.climatechangecommunication.org/wp-content/uploads/2019/06/Cook_2019_climate_misinformation-1.pdf)
 
@@ -30,7 +31,7 @@ Climate Explained is a collaboration between The Conversation, Stuff and the New
 
 [full article](https://theconversation.com/climate-explained-why-some-people-still-think-climate-change-isnt-real-124763)
 
-### ["You are right. I am ALARMED – But by Climate Change Counter Movement"]
+### "You are right. I am ALARMED – But by Climate Change Counter Movement"
 #### Abstract
 `The world is facing the challenge of climate crisis. Despite the consensus in scientific community about anthropogenic global warming,the web is flooded with articles spreading climate misinformation. These articles are care-fully constructed by climate change counter movement (CCCM) organizations to influence the narrative around climate change. We revisit the literature on climate misinformation in social sciences and repackage it to introduce in the community of NLP. Despite considerable work in detection of fake news, there is no misinformation dataset available that is specific to the domain.of climate change. We try to bridge this gap by scraping and releasing articles with known climate change misinformation.`
 
@@ -66,18 +67,22 @@ Climate Explained is a collaboration between The Conversation, Stuff and the New
 - [mock ups tests products prototypes](https://www.notion.so/Climate-Battle-Cards-Plug-In-Mock-Up-Jack-Hampson-b150e419447e4a7286cd11f972e5bb5f#677536674d16450badc482641b794819
 )
 ### Climate Change Tweets Ids (Harvard) 
-- climate data source 
-- [dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5QCCUU)
+This dataset contains the tweet ids of 39,622,026 tweets related to climate change. They were collected between September 21, 2017 and May 17, 2019 from the Twitter API using Social Feed Manager. There is a gap in data collection between January 7, 2019 and April 17, 2019.
+
+[dataset](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/5QCCUU)
     
 ### Full Fact fights bad information (Full Fact) 
--[https://fullfact.org/](https://fullfact.org/)
-- climate data source
+A team of independent fact checkers and campaigners who find, expose and counter the harm it does.
+
+[https://fullfact.org](https://fullfact.org/)
+
     
 ### Semantic_similarity_with_GristQuestions.ipynb (ankush checkervarty) 
-- mock ups tests products prototypes
-- [dataset](https://colab.research.google.com/drive/13p2QhiyeWsqYdy4agDvV6zTcLIKyIvHh?usp=sharing#scrollTo=4sfWsFTcQeqb)
+This dataset uses Grist questions.
+
+[dataset](https://colab.research.google.com/drive/13p2QhiyeWsqYdy4agDvV6zTcLIKyIvHh?usp=sharing#scrollTo=4sfWsFTcQeqb)
 
 ### Scraping tool
 Skim API uses machine learning and natural language processing to instantly search, extract and identify key information from unstructured web pages.
-[Getting started] (https://docs.skim.it/)
-- tools
+
+[https://docs.skim.it] (https://docs.skim.it/)
