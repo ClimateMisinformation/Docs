@@ -1,3 +1,3 @@
 # Product canvas
 
-!["Product canvas"](images/Product_canvas.jng )
+!["Product canvas"](images/Product_canvas.jpg )
