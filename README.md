@@ -7,13 +7,13 @@
 
 ### Quick start
 
-[Research from Slack](Research_from_Slack.md)
+[Research from Slack](Research_from_Slack.md) Our [slack channel](https://aiforgoodcommunity.slack.com/archives/C01B378SZN1) contains research we have collected. A selection of it is described here.
 
-[MarketResearch](MarketResearch.md)
+[MarketResearch](MarketResearch.md) Here we  summarise the problem we  want to solve, the reasons for climate mis-information, the types of  climate misinformation,how is climate misinformation spread and how it can be countered.
 
-[Product canvas](ProductCanvas.md)
-
-[Personas and the product ](Personas.md)
+[Product canvas](ProductCanvas.md) The product team made an in depth analysis of the need for product we could build.
+ 
+[Personas and the product ](Personas.md) Here  we describe expected users of a climate mis-information tool and their possible motivations  for using our tool.
 
 [Assumption validation](https://github.com/ClimateMisinformation/Documentation/issues)
 Our assumptions are described in the issues log. Reviewing them is a useful task for new contributers. 
