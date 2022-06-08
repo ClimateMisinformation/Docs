@@ -1,3 +1,7 @@
+This repository is a port of publically shareable content from our team notion board at  https://sedate-look-013.notion.site/e1ce282ae7eb4761aa22c5a81151d498?v=585aba38c6b7451d82cc970255978762
+
+
+
 # Product Wiki
 
 ## Problem statement 
